@@ -1,0 +1,19 @@
+.container {
+    height: 80%;
+    background-color: #ffffe0;
+}
+
+.navegacao {
+    background-color: #f9ed9e;
+}
+
+i {
+    padding-right: 0.6rem;
+    align-items: center;
+    vertical-align: middle;
+}
+
+span {
+    vertical-align: middle;
+}
+
